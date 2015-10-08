@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/DearLiuna/test/blob/master/mlp.ipa</string>
+					<string>https://raw.githubusercontent.com/DearLiuna/test/master/mlp.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
